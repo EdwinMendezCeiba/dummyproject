@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'DummyWeppApp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BE0B673EDD034358B5B7334623C3434A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_56F3255D305D4997947B47D95C0823E9 }}
           package: .
